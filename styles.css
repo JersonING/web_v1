@@ -23,3 +23,56 @@ body {
     text-decoration: none;
   }
   
+  /* Footer */
+
+footer {
+    width: 100%;
+    height: 100px;
+    background-color: #000;
+    color: #fff;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+  }
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  footer .logo {
+    width: 150px;
+    height: 50px;
+  }
+  
+  footer .info {
+    margin-top: 20px;
+  }
+  
+  footer .info ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  footer .info li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  footer .social-media {
+    margin-top: 20px;
+  }
+  
+  footer .social-media a {
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    background-color: #fff;
+    color: #000;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 30px;
+    font-size: 12px;
+  }
+  
