@@ -23,6 +23,7 @@ header {
 }
 
 .logo {
+  font-family: 'Franklin Gothic Medium';
   font-size: 25px;
   color: #fff;
   font-weight: 100;
@@ -40,6 +41,7 @@ header {
   color: #fff;
   text-decoration: none;
   font-weight: bold;
+  font-family: 'Lucida Sans Unicode';
   transition: all 0.5s ease;
 }
 
